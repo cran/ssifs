@@ -408,7 +408,7 @@ ssifs <- function(TE, seTE, treat1, treat2, studlab, ref, method = "DBT", rpcons
     model <- R2jags::jags(
       model.file = textConnection(NMApilot(multi, one_IF, zellner)),
       n.iter = M_pilot, n.burnin = B_pilot, n.thin = n_thin_pilot, n.chains = n_chains_pilot,
-      parameters.to.save = c("beta"), data = Data_MCMC_pilot
+      parameters.to.save = c("beta"), data = Data_MCMC_pilot, quiet = TRUE
     )
     ##
     Data_MCMC[["psi"]] <- model$BUGSoutput$summary[-which(rownames(model$BUGSoutput$summary) == "deviance"), 2]
@@ -427,7 +427,7 @@ ssifs <- function(TE, seTE, treat1, treat2, studlab, ref, method = "DBT", rpcons
   ##
   model <- R2jags::jags(
     model.file = textConnection(m_NMA), n.iter = M, n.burnin = B, n.thin = n_thin, n.chains = n_chains,
-    parameters.to.save = par_save, DIC = FALSE, data = Data_MCMC
+    parameters.to.save = par_save, DIC = FALSE, data = Data_MCMC, quiet = TRUE
   )
 
   ##

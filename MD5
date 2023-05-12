@@ -1,6 +1,6 @@
-46a9edd3b8da73ec6cb846437b44f5fc *DESCRIPTION
+d02b7dce9b698c0f0f44255f8d34deba *DESCRIPTION
 015421429ed88f54d88a767d8461c48a *NAMESPACE
-344a36210358aec245d6b0467bf4451f *NEWS.md
+fe95450cc167761c1c8828a5ed64f88c *NEWS.md
 b9b4b11ffd94f29fe9e6bd3a70086151 *R/Alcohol.R
 e8e142349733374e217f3df4d77d275f *R/DBT.data.R
 78e0b9b2bbeb329c11be5c89b02b95a9 *R/LuAdes.R
@@ -27,10 +27,10 @@ ecc6498842606e8aac4830dbdd4e2778 *R/onesource.R
 e9e728ee481863ac5b27f3262795d3cc *R/plotden.R
 f9f1ed296a447ad97b0d2d17ac44d7cc *R/smokingcessation.R
 addd9c5f6493b2cd3ab943aba52bd29a *R/spike.slab.R
-7a4b54f5f8f4c22d332d0fa4fa030e0f *R/ssifs.R
+b8846722cf43112b73ed023d75bc936a *R/ssifs.R
 8312be469fee5531ea80b0667cdbd591 *R/subnet.R
 6349b1bee6939f3ab2d69f8c4ea42a42 *R/transformIF.R
-e9975e5cb556b8f0485c96c359246c3b *README.md
+d9d8f6a3acc88cf44161de7ef95ce43b *README.md
 bde9e4e3149a57390da84cfaea7ccbd9 *build/vignette.rds
 3e80aa9c5e9795aadbbfe2b601d7f4ec *data/Alcohol.rda
 7bcac2de72ceaed049d1244dc47209b6 *data/smokingcessation.rda

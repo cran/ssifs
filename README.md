@@ -36,12 +36,12 @@ How to cite **ssifs**:
 
 Seitidis G, Nikolakopoulos S, Ntzoufras I, Mavridis D. (2023). *ssifs:
 Stochastic Search Inconsistency Factor Selection*. R package version
-1.0-1, <https://CRAN.R-project.org/package=ssifs>.
+1.0-2, <https://CRAN.R-project.org/package=ssifs>.
 
 ### BibTeX
 
 @manual{, title = {ssifs: Stochastic Search Inconsistency Factor
 Selection}, author = {Seitidis, Georgios and Nikolakopoulos, Stavros and
 Ntzoufras, Ioannis and Mavridis, Dimitris}, year = {2023}, note ={R
-package version 1.0-1}, url =
+package version 1.0-2}, url =
 {<https://CRAN.R-project.org/package=ssifs>}, }

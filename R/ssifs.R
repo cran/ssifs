@@ -34,7 +34,7 @@
 #' Stochastic Search Inconsistency Factor Selection (SSIFS) is the extension of Stochastic Search Variable Selection (SSVS)
 #' (George & McCulloch, 1993) for identifying inconsistencies in Network Meta-Analysis (NMA).
 #'
-#' SSIFS (Seitidis et al., 2022), is a two-step method in which the inconsistency factors are specified in the first step, and in the second step,
+#' SSIFS (Seitidis et al., 2023), is a two-step method in which the inconsistency factors are specified in the first step, and in the second step,
 #' SSVS is performed on the inconsistency factors. The method used for the specification of the inconsistency factors, is
 #' controlled by the argument \code{method}. Among the choices that may be considered are the Lu and Ades model (Lu & Ades, 2006),
 #' the design-by-treatment model (Higgins et al., 2012), and the random-effects implementation of the design-by-treatment model (Jackson et al., 2014).
@@ -122,10 +122,10 @@
 #' \emph{Journal of the American Statistical Association},
 #' \bold{88}(423), 881-889.
 #'
-#' Seitidis, G., Nikolakopoulos, S., Ntzoufras, I., & Mavridis, D. (2022):
+#' Seitidis, G., Nikolakopoulos, S., Ntzoufras, I., & Mavridis, D. (2023):
 #' Inconsistency identification in network meta-analysis via stochastic search variable selection.
-#' \emph{arXiv preprint},
-#' \bold{arXiv:2211.07258}.
+#' \emph{Statistics in Medicine},
+#' \bold{42}(26), 4850–4866.
 #'
 #' Lu, G., & Ades, A. E. (2006):
 #' Assessing evidence inconsistency in mixed treatment comparisons.

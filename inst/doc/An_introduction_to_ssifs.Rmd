@@ -30,7 +30,7 @@ text-align: justify}
 
 ## Quick Revision
 
-Stochastic Search Inconsistency Factor Selection (SSIFS) is the extension of Stochastic Search Variable Selection (SSVS) [@george1993variable] for identifying inconsistencies in Network Meta-Analysis (NMA). SSIFS is a two-step method, where in the first step inconsistency factors are specified, and in the second step, variable selection on inconsistency
+Stochastic Search Inconsistency Factor Selection (SSIFS) is the extension of Stochastic Search Variable Selection (SSVS) [@george1993variable] for identifying inconsistencies in Network Meta-Analysis (NMA)[@seitidis2023ssifs]. SSIFS is a two-step method, where in the first step inconsistency factors are specified, and in the second step, variable selection on inconsistency
 factors is performed using the SSVS method.
 
 ## Inverse-variance NMA model
